@@ -49,7 +49,7 @@ const data=[
       header:'E-commers',
       title:"an E-commers website..fully functionalaty...Developed in HTML ,CSS, JS.....(Desctop design only)",
       github:'https://github.com/Lotus-Kattini',
-      demo:'https://lotus-kattini.github.io/E-Commers/',
+      demo:'https://lotus-kattini.github.io/E-commers/',
     },
     {
       id:2,
