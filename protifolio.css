@@ -2,6 +2,7 @@
     --primary-color:#03a9f4;
     --secondary-color:#1863bf;
 }
+
 .protifolio__container{
     display: grid;
     grid-template-columns: repeat(3,1fr);

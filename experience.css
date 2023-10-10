@@ -2,7 +2,8 @@
   --primary-color:#03a9f4;
   --secondary-color:#1863bf;
 }
-#experience,.expertwo,.services,.protifolio,#contact {
+
+#experience,.expertwo,.services,.protifolio,#contact,#skills {
   background-color: black;
   color: #fff;
 }
