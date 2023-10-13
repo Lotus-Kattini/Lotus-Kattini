@@ -152,6 +152,7 @@ let experence=document.getElementById('experence');
 let services=document.getElementById('services');
 let protifolio=document.getElementById('protifolio');
 let contact=document.getElementById('contact');
+let skills=document.getElementById('MYskills');
 let contactbtn=document.querySelector('.contactbtn');
 let forjs=document.querySelectorAll('.contact__option-icon .forjs')
 let turn=0
@@ -164,8 +165,10 @@ function Darkmodefunc(){
   services.style.background='lavender'
   protifolio.style.background='lavender'
   contact.style.background='lavender'
+  skills.style.background='lavender'
   home.style.color='black'
   about.style.color='black'
+  skills.style.color='black'
   experence.style.color='black'
   services.style.color='black'
   protifolio.style.color='black'
@@ -187,12 +190,14 @@ function lightmode(){
     services.style.background='black'
     protifolio.style.background='black'
     contact.style.background='black'
+    skills.style.background='black'
     home.style.color='white'
     about.style.color='white'
     experence.style.color='white'
     services.style.color='white'
     protifolio.style.color='white'
     contact.style.color='white'
+    skills.style.color='white'
     contactbtn.style.color='white'
     protifolio__item.forEach((item)=>item.style.background='#03a8f461')
     forjs.forEach((elemant)=>{
