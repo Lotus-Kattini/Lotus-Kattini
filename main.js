@@ -5,6 +5,13 @@ let started=false
 let expsection=document.querySelector('.expertwo')
 let spans=document.querySelectorAll('.progress span')
 
+var typed = new Typed('.autoType',{
+  strings:["Programmer","Front-End Developer"],
+  typeSpeed:150,
+  backSpeed:150,
+  loop:true
+});
+
 window.onscroll=()=>{
   if(window.scrollY >= aboutSection.offsetTop -200){
     if(!started){
