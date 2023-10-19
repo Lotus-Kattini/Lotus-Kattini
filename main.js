@@ -106,6 +106,14 @@ const data=[
       github:'https://github.com/Lotus-Kattini/stop-watch',
       demo:'https://lotus-kattini.github.io/stop-watch/'
     },
+    {
+      id:8,
+      image:'images/MUI.jpg',
+      header:'Material UI project',
+      title:"A full Material UI project with dark mode and light mode,its fully working in local host only because i use a JSON server not an API",
+      github:'https://github.com/Lotus-Kattini/MUI-React-Pro',
+      demo:'https://lk-material-ui-project.netlify.app/'
+    },
 ]
 
 let protifolioContainer=document.querySelector('.protifolio__container');
