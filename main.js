@@ -108,7 +108,7 @@ const data=[
     },
     {
       id:8,
-      image:'images/MUI.jpg',
+      image:'images/materialUI.jpg',
       header:'Material UI project',
       title:"A full Material UI project with dark mode and light mode,its fully working in local host only because i use a JSON server not an API",
       github:'https://github.com/Lotus-Kattini/MUI-React-Pro',
