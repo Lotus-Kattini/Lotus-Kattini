@@ -168,6 +168,14 @@
   animation: animate 4s ease-in-out infinite;
 }
 
+#proloader{
+  background: #0a0b1c url(images/preloaderr-unscreen.gif) no-repeat center center;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  z-index: 100;
+}
+
 @keyframes animate {
   0%,
   100% {
@@ -326,6 +334,9 @@
     /* height: 5rem; */
     font-size: 2.5rem;
     padding-left: 10rem;
+  }
+  #proloader{
+    height: 140vh;
   }
 }
 

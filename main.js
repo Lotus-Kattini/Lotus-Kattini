@@ -5,6 +5,12 @@ let started=false
 let expsection=document.querySelector('.expertwo')
 let spans=document.querySelectorAll('.progress span')
 
+let proloader=document.getElementById('proloader');
+
+window.addEventListener('load',()=>{
+  proloader.style.display='none';
+})
+
 var typed = new Typed('.autoType',{
   strings:["Programmer","Front-End Developer"],
   typeSpeed:150,
