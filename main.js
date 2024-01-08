@@ -120,6 +120,14 @@ const data=[
       github:'https://github.com/Lotus-Kattini/MUI-React-Pro',
       demo:'https://lk-material-ui-project.netlify.app/'
     },
+    {
+      id:9,
+      image:'images/guessGame.jpg',
+      header:'Guess Word Game',
+      title:"A game project that requires a lot of logic and really good understanding of JS, its fully responsive with so many features",
+      github:'https://github.com/Lotus-Kattini/Guess-word-game',
+      demo:'https://lotus-kattini.github.io/Guess-word-game/'
+    },
 ]
 
 let protifolioContainer=document.querySelector('.protifolio__container');
