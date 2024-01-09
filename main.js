@@ -126,7 +126,7 @@ const data=[
       header:'Guess Word Game',
       title:"A game project that requires a lot of logic and really good understanding of JS, its fully responsive with so many features",
       github:'https://github.com/Lotus-Kattini/Guess-word-game',
-      demo:'https://lotus-kattini.github.io/Guess-word-game/'
+      demo:'https://guess-the-word-game-lk.netlify.app/'
     },
 ]
 
